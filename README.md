@@ -1,0 +1,2 @@
+# PluginPlay
+Web extension manager
